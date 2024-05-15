@@ -1,5 +1,11 @@
 ![BANNER FRANCISCO NAVARRO](https://github.com/FranciscoNavarro9609/FranciscoNavarro9609/assets/23001895/34bd60bd-2c30-4030-9983-759fa60fac53)
+https://www.linkedin.com/in/francisco-navarro1996/
+
 ### Hi there 👋
+
+🛠️ Lenguajes y herramientas :
+[![My Skills](https://skillicons.dev/icons?i=js,selenium,py,postman,postgres,github,git,vscode)](https://skillicons.dev)
+
 
 <!--
 **FranciscoNavarro9609/FranciscoNavarro9609** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
